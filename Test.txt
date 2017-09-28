@@ -11,10 +11,9 @@ ek baar firse
 
 againn
 
-<<<<<<< HEAD
 anuraaag
 mklblkg
-=======
+
 going
->>>>>>> 08a7384276bf53e8346d101c8b434fec7f90c334
+
 
